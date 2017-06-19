@@ -4,7 +4,7 @@
 
 | Creator | Date | Bit | Distribution | Kernel | Profile Hash(SHA-1) | Download|
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| iMHLv2 | 20140731 | 32 | Fedora 20 | 3.11 | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [plugins/dropbox/README.md] [PlDb] |
+| iMHLv2 | 20140731 | 32 | Fedora 20 | 3.11 | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [Download](https://github.com/cpuu/profiles/blob/master/Linux/Ubuntu/x64/Ubuntu10044.zip) |
 | iMHLv2 | 20140731 | 32 | Fedora 20 | 3.11 | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [plugins/dropbox/README.md] [PlDb] |
 | iMHLv2 | 20140731 | 32 | Fedora 20 | 3.11 | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [plugins/dropbox/README.md] [PlDb] |
 | iMHLv2 | 20140731 | 32 | Fedora 20 | 3.11 | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [plugins/dropbox/README.md] [PlDb] |
