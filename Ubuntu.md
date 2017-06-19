@@ -16,7 +16,7 @@
 | Ubuntu 12.4.5 | 64 | 3.13.0-32-generic | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [Download](https://github.com/cpuu/profiles/raw/master/Linux/Ubuntu/x64/Ubuntu12045.zip) |
 | Ubuntu 12.4.4 | 64 | 3.11.0-15-generic | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [Download](https://github.com/cpuu/profiles/raw/master/Linux/Ubuntu/x64/Ubuntu12044.zip) |
 | Ubuntu 11.10 | 64 | 3.0.0-12-generic | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [Download](https://github.com/cpuu/profiles/raw/master/Linux/Ubuntu/x64/Ubuntu1110.zip) |
-| Ubuntu 11.04 | 64 | 2.6.38-8-generic | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [Download]https://github.com/cpuu/profiles/raw/master/Linux/Ubuntu/x64/Ubuntu1104.zip) |
+| Ubuntu 11.04 | 64 | 2.6.38-8-generic | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [Download](https://github.com/cpuu/profiles/raw/master/Linux/Ubuntu/x64/Ubuntu1104.zip) |
 | Ubuntu 10.10 | 64 | 2.6.35-22-generic | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [Download](https://github.com/cpuu/profiles/raw/master/Linux/Ubuntu/x64/Ubuntu1010.zip) |
 | Ubuntu 10.04.4 | 64 | 2.6.32-38-generic | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [Download](https://github.com/cpuu/profiles/raw/master/Linux/Ubuntu/x64/Ubuntu10044.zip) |
 | Ubuntu 9.10 | 64 | 2.6.31-14-generic | 756eb692454efc1881ea39cbbe7044e08f60f6f7 | [Download](https://github.com/cpuu/profiles/raw/master/Linux/Ubuntu/x64/Ubuntu910.zip) |
